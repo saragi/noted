@@ -14,4 +14,4 @@ Now I can add a server alias with sudo domain-alias funproject 8000, run the web
 
 I've written more about this on Atomic Object's blog Spin.
 
-domain-alias.sh
+[domain-alias.sh](https://github.com/saragi/noted/blob/master/domain-alias.sh)
